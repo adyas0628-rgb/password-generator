@@ -33,7 +33,7 @@ It allows users to generate secure passwords with options like length, numbers, 
 
 - 
 - ## Tech Stack
-- 
+
 - React
 - JavaScript
 - CSS
